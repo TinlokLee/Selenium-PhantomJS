@@ -192,3 +192,9 @@ def cleanImage(imagePath):
 
         else:
             print("There was a problem reading the CAPTCHA correctly!")
+
+
+
+
+
+            
